@@ -1,6 +1,5 @@
 # TelecommunicationUserCategory-KNN
-<!DOCTYPE html>
-<html>
+
 <head><meta charset="utf-8" />
 
 <title>tele</title>
@@ -13688,4 +13687,4 @@ Test set: (200, 11) (200,)
  
 
 
-</html>
+
